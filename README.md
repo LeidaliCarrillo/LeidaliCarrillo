@@ -26,7 +26,7 @@ Soy QA Tester enfocado en asegurar la calidad de aplicaciones web mediante prueb
 - 🌐 API Testing: pruebas de endpoints con Postman  
 - 🤖 UI Automation: scripts básicos de automatización con Selenium  
 
-> Aquí puedes enlazar tus repos reales cuando los tengas.
+
 
 ---
 
