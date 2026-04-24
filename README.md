@@ -1,6 +1,6 @@
 # 👋 Hola, soy Leidali y soy QA Tester 🤖💻
 
-Soy QA Tester enfocado en asegurar la calidad de aplicaciones web mediante pruebas manuales y automatización.
+Soy QA Tester enfocado en asegurar la calidad de aplicaciones web mediante pruebas manuales y automatizadas.
 
 ---
 
